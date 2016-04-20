@@ -1,0 +1,13 @@
+typeof ["French Roast", "Colombian", "Kona"];
+typeof true;
+typeof 117;
+typeof 0001;
+typeof 0x1123;
+typeof 0b11;
+typeof 3.1415926;
+typeof -.123456789;
+typeof -3.1E+12;
+typeof .1e-23;
+typeof { manyCars: {a: "Saab", "b": "Jeep"}, 7: "Mazda" };
+typeof /ab+c/;
+typeof 'abc';

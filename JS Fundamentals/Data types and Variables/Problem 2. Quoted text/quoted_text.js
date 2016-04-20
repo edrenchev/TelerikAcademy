@@ -1,0 +1,1 @@
+var s = '\'How you doin\'?\', Joey said';
